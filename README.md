@@ -2,7 +2,7 @@
 
 Production-ready, zero-database web application for multi-agent code review of GitHub pull requests.
 
-Built for **Scarlet Hacks 2026** (Corporate Innovation track) and aligned with Focused Labs' interest in **Agentic Integration**.
+Built for **Scarlet Hacks 2026** (Corporate Innovation track).
 
 ## Core Features
 
