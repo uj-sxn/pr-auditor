@@ -1,0 +1,33 @@
+# Python
+.venv/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment and secrets
+.env
+*.env
+!.env.example
+backend/.env
+frontend/.env.local
+frontend/.env.production
+
+# Node / Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# Editors / OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local-only docs
+DEPLOY_GITHUB_PAGES.md

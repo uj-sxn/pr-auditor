@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+google-generativeai
+PyGithub
+langgraph
+python-dotenv
