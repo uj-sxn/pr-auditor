@@ -130,3 +130,10 @@ Response includes:
 
 - If you see "missing API key", ensure backend startup loads backend/.env and set either GOOGLE_API_KEY or GEMINI_API_KEY.
 - If you see Gemini 429 quota errors, the app now returns a structured fallback result so UI cards still render; switch to a key/project with available quota for full AI analysis.
+
+---
+
+## Developed by
+
+- [Urjita Saxena](https://github.com/uj-sxn)
+- [Akshat Behera](https://github.com/AkshatBehera)
